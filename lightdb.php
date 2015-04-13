@@ -129,7 +129,7 @@
 			$this->save();
 	}
 }
-	
+	/* Example - Tests */
 	$banco_nomes = new db(
 		"Banco-de-dados", // Nome do banco
 		"1234" // Senha
